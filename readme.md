@@ -18,7 +18,7 @@ Bem-vindo ao **JSimulador de Piano**! Neste repositório, você encontrará um s
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Use o click do mouse para interagir no Simulador ou as teclas do teclado correspondente as exibidas no piano.
-4. Caso queira Simular de forma online, click no link 
+4. Caso queira Simular de forma online, click no link [https://jwpires.github.io/Simulador_Piano/]
 
 
 ### Créditos
